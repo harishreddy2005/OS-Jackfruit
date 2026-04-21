@@ -53,39 +53,30 @@ A lightweight Linux container runtime implemented in C, featuring a long-running
 
 ### 2. `engine ps` showing running containers
 
-<!-- Paste screenshot here -->
+<img width="1600" height="900" alt="2" src="https://github.com/user-attachments/assets/681d04be-dcdc-4b0a-8ea6-b45ccfc09bbc" />
 
----
 
 ### 3. `engine run`, `engine stop`, and log output
 
-<!-- Paste screenshot here -->
-
----
+<img width="1600" height="900" alt="3" src="https://github.com/user-attachments/assets/8c521665-1907-4b02-9543-3b1653b0c606" />
 
 ### 4. Multi-container ps with stopped/exited states
 
-<!-- Paste screenshot here -->
+<img width="1600" height="900" alt="4" src="https://github.com/user-attachments/assets/7f6baeae-84a2-48f5-89c9-6dd430af9764" />
 
----
 
 ### 5. Kernel module — soft and hard memory limit events in dmesg
+<img width="1600" height="900" alt="5 6" src="https://github.com/user-attachments/assets/b29a2aa6-3342-4b0f-a677-0f75ed778bf2" />
 
-<!-- Paste screenshot here -->
-
----
 
 ### 6. Scheduling experiment — CPU hog containers with different nice values
 
-<!-- Paste screenshot here -->
-
----
+<img width="1600" height="900" alt="7" src="https://github.com/user-attachments/assets/7bb0376c-dedf-4179-8be4-9b85de58ba38" />
 
 ### 7. Supervisor with multiple containers; cleanup via kill
 
-<!-- Paste screenshot here -->
+<img width="1600" height="900" alt="8" src="https://github.com/user-attachments/assets/5f29262a-39fe-4ec4-9a21-474aa1271676" />
 
----
 
 ## Engineering Analysis
 
