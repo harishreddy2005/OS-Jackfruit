@@ -48,9 +48,8 @@ A lightweight Linux container runtime implemented in C, featuring a long-running
 
 ### 1. Supervisor startup and container start (alpha, beta)
 
-<!-- Paste screenshot here -->
+<img width="1600" height="900" alt="1" src="https://github.com/user-attachments/assets/db97a0b6-314b-4086-994d-b3a1085d00a3" />
 
----
 
 ### 2. `engine ps` showing running containers
 
